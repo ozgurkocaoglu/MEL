@@ -1,0 +1,25 @@
+{
+	"Temp.Rev_12-01": {
+    "date": "17.04.2024",
+    "CDL 53-51-01": [{
+        "desc": "VCT Vortex Control Finlets",
+        "remark": "Added CDL 53-51-01 VCT Finlets for A/Cs (TC-SEK, TC-SEM, TC-SOC, TC-SOD, TC-SOE)"
+    }]
+},
+	"Temp.Rev_12-02": {
+    "date": "26.04.2024",
+    "0.5 & MEL 1.1": [{
+        "desc": "Model Identification & Introduction",
+        "remark": "Newly added A/Cs (TC-SPV, TC-SRB, TC-SPY, TC-SPZ, TC-SRC)"
+    }],
+    "MEL 32-22": [{ 
+        "desc": "Two-position Tail Skid",
+        "remark": "MEL 32-22 ’Two-Position Tail Skid’ item has been re-added for SFP2 A/Cs (TC-SPY), this item was previously effective for (TC-SAH, TC-SBN)"
+    }],
+    "MEL 23-12-01B": [{
+        "desc": "Survival Type ELTs - Redundant ELT",
+        "remark": "Revised A/C efectivities of MEL 23-12-01B ’Redundant ELT’ for A/Cs (TC-SNV, TC-SPZ(newly added)"
+    }]
+}
+
+}
